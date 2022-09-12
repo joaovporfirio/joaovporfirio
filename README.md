@@ -4,24 +4,19 @@
 
 # Technologies & Tools
 
-<div style="display: inline_block">
-  
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
-![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=222222&logo=WordPress&logoColor=21759B&label=)
-<!--
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&label=)
-![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=222222&logo=Gatsby&logoColor=663399&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
-![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material-UI&logoColor=0081CB&label=)
-![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
-![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=FFFFFF&label=)
-![AOS](https://img.shields.io/static/v1?style=for-the-badge&message=AOS&color=222222&logo=Material-UI&logoColor=0081CB&label=)-->
 
- </div> 
+<div style="display: inline_block"><br>
+   <img align="center" alt="JV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--
+  <img align="center" alt="JV-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JV-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
+  <img align="center" alt="JV-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JV-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
+</div>
+
 
 # GitHub Stats
   
